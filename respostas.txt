@@ -1,0 +1,13 @@
+1. Fork é uma cópia de um repositório que fica na sua conta do GitHub, permitindo que faças mudanças no código de forma independente, sem afetar o repositório original. Questão prática: Correção de ubgs, modificar o projeto de forma personalizada.  
+2. Clique em Pull Request, clique em "New Pull Request" e depois em "create pull request". Após isso, digite o titulo e a messagem de descrição da alteração que você está enviando.
+3. 
+4. Essencial para garantir que as alterações sejam compreendidas pelo dono e facilitar a integração do seu código. Deve-se ser claro, resumo das alterações, motivação, instruções de teste e uma documanetação adicional, com as novas funcionalidades (para que os desenvolvedores saibam usar).
+5. Clique em repositório, clique em new, Nome do repositório, descrição, adicione um README e a licença do MIT.
+6. Procure pelo repositório do teu colega, clique em fork e "create fork".
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13.
